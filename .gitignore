@@ -1,0 +1,11 @@
+# Raw dataset (download it from UCI instead)
+online_retail_II.xlsx
+online_retail_II.csv
+retail.zip
+
+# Generated output
+at_risk_champions.csv
+
+# Jupyter / macOS
+.ipynb_checkpoints/
+.DS_Store

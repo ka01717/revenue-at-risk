@@ -1,4 +1,3 @@
-# revenue-at-risk
 # Revenue at Risk: Customer Win-Back Analysis
 
 A mock Adobe Solution Consulting engagement. It finds the high-value customers a UK online retailer is losing, puts a £ figure on them, and designs an AI-agent win-back plan on Adobe Experience Cloud.
@@ -46,7 +45,7 @@ A holdout group gets nothing, so the difference in spend proves the real uplift.
 
 ## How to run
 
-Open `Adobe_Revenue_at_Risk.ipynb` in Google Colab and choose Runtime → Run all. It downloads the dataset automatically.
+Open [`Adobe_Revenue_at_Risk.ipynb`](Adobe_Revenue_at_Risk.ipynb) in Google Colab and choose Runtime → Run all. It downloads the dataset automatically.
 
 **Data source:** UCI Machine Learning Repository, "Online Retail II".
 
